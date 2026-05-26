@@ -7,8 +7,9 @@ Convergify is an AI-powered Career Intelligence Hub designed to help students an
 
 This repository serves as the official progress and reporting page for the Convergify SEP project under the NTU Innovation Lab (iLab). 
 
-## Pitch Video
-▶️ **Watch the Convergify Pitch:** [Convergify Pitch on YouTube](https://youtu.be/o039x1h91_A?si=hafl_UWs1OS-LCXQ)
+## Pitch Video & Deck
+▶️ **Watch the Convergify Pitch:** [Convergify Pitch on YouTube](https://youtu.be/o039x1h91_A?si=hafl_UWs1OS-LCXQ)  
+📄 **Download Presentation:** [Convergify Pitch Deck](Convergify_Pitch_Deck.pptx)
 
 ## Core Features
 - **Discover:** Centralized portal aggregating job listings from major platforms to identify real-time demand and hidden skills.
