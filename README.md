@@ -2,35 +2,62 @@
 
 **Turning Job Market Noise into a Clear Action Plan**
 
-**Team:** Siva & Ethan (Year 2 Computer Engineering)
+## Overview
+Convergify is an AI-powered Career Intelligence Hub designed to help students and professionals navigate the fragmented job market. The modern job market is a time-consuming information black hole filled with information overload and the "Taxonomy of Rejection." Convergify moves earlier in the funnel, streamlining the career journey by discovering job opportunities, diagnosing skill gaps, curating personalized upskilling roadmaps, and providing actionable feedback on job applications.
 
-Convergify is an AI-powered Career Intelligence Hub designed to help students and professionals navigate the fragmented job market. By moving earlier in the funnel, Convergify streamlines the career journey by discovering job opportunities, diagnosing skill gaps, curating personalized upskilling roadmaps, and providing actionable feedback on job applications to solve the "Taxonomy of Rejection."
+This repository serves as the official progress and reporting page for the Convergify SEP project under the NTU Innovation Lab (iLab). 
 
-## Pitch Deck Video
-
-[Watch the Convergify Pitch on YouTube](https://youtu.be/o039x1h91_A?si=hafl_UWs1OS-LCXQ)
+## Pitch Video
+▶️ **Watch the Convergify Pitch:** [Convergify Pitch on YouTube](https://youtu.be/o039x1h91_A?si=hafl_UWs1OS-LCXQ)
 
 ## Core Features
+- **Discover:** Centralized portal aggregating job listings from major platforms to identify real-time demand and hidden skills.
+- **Diagnose:** Semantic gap analysis using LLMs to compare user resumes to real-time market requirements.
+- **Upskill:** Content-agnostic, personalized learning timelines leveraging platforms like Coursera, YouTube, and SkillsFuture.
+- **Apply:** An active diagnostic engine mapping out reasons for application stalling to guide measurable improvements.
 
-- **Discover:** Centralized portal aggregating job listings to identify real-time demand and hidden skills.
-- **Diagnose:** Semantic gap analysis comparing user resumes to market requirements.
-- **Upskill:** Content-agnostic, personalized learning timelines leveraging platforms like Coursera and YouTube.
-- **Apply:** Diagnostic engine mapping out reasons for application stalling to guide measurable improvements.
+## Current Status
+Convergify is currently in the prototyping and validation stage.
+- **Tech Stack:** Our core infrastructure is built on Next.js & React (Frontend), Supabase (Backend & Auth), and Google Gemini (AI Engine).
+- **Development:** We have a proven prototype featuring a multi-source job aggregation engine and an LLM-based resume parsing & gap analysis tool.
+- **Validation:** We are currently exploring freemium adoption strategies and outcome-driven institutional pilots to reduce time-to-skill for students.
 
-## Technology Stack
+## Team Composition
+Convergify is built by two self-driven Year 2 Computer Engineering students:
 
-- **Frontend:** Next.js & React
-- **Backend & Auth:** Supabase
-- **AI Engine:** Google Gemini (Powers Skill Extraction & Semantic Gap Analysis)
+### Siva
+*Technical Depth Meets Operating Perspective*
+- Combines technical depth with consulting experience. 
+- Expert in identifying customer pain points, execution, and go-to-market strategy.
+
+### Ethan
+*Technical Architect & Builder*
+- Self-driven builder and technical architect. 
+- Multiple hackathon placements with a focus on scalable, production-ready deployment.
+
+## Product Roadmap & Next Steps
+Our focus over the upcoming months involves scaling our data, product, and partnerships:
+1. **Data Scaling & Integration:** Secure and scale reliable data integrations across major job platforms with high-frequency refresh cycles.
+2. **Product Excellence:** Refine the diagnostic engine and dynamic career roadmap generation into a polished, high-conversion user experience.
+3. **Institutional Pilots:** Run pilot programs with universities to prove outcomes—specifically reducing time-to-skill and improving application success.
+4. **Monetization Expansion:** Move from freemium user acquisition (discovery credits) to B2B institutional partnerships.
+
+## Finance & Budget
+Convergify is currently supported through bootstrapping and the Student Entrepreneurship Program (SEP) at NTU iLab. We are exploring strategic investments to further scale our data integration, product excellence, and institutional pilot programs.
+
+## Contact
+For any questions regarding Convergify or our SEP project progress, please contact:
+- **Siva & Ethan**
+- **Email:** [Your Email Placeholder]
+- **LinkedIn:** [Your LinkedIn Placeholder]
 
 ---
 
-## Progress Report
+## Progress Updates
 
-*This section captures the progress of the Convergify SEP project and is updated at least once every 2 months for iLab reporting.*
+*As required by SEP, we will update this section at least once every 2 months with development, financial, and competition updates.*
 
-### Update 1: Initial Pitch & Project Overview
-- **Date:** May 2026
+### Update 1: Initial Pitch & Project Overview (May 2026)
 - **Status:** Initial project overview, pitch deck generation, and core objectives established.
 - **Video Link:** [Convergify Pitch](https://youtu.be/o039x1h91_A?si=hafl_UWs1OS-LCXQ)
-- **Dev Works:** Prototyping multi-source job aggregation and LLM resume parsing with Gemini.
+- **Development Works:** Established the core infrastructure (Next.js, Supabase, Gemini) and began prototyping multi-source job aggregation.
