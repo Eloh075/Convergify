@@ -8,3 +8,4 @@ graphify-out/cost.json
 
 # Agent configuration
 .agents/
+SEP_KB/
