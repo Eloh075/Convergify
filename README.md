@@ -9,7 +9,7 @@ This repository serves as the official progress and reporting page for the Conve
 
 ## Pitch Video & Deck
 ▶️ **Watch the Convergify Pitch:** [Convergify Pitch on YouTube](https://youtu.be/o039x1h91_A?si=hafl_UWs1OS-LCXQ)  
-📄 **Download Presentation:** [Convergify Pitch Deck](Convergify_Pitch_Deck.pptx)
+📄 **Download Presentation:** [Convergify Pitch Deck](Convergify_Pitch_Deck.pdf)
 
 ## Core Features
 - **Discover:** Centralized portal aggregating job listings from major platforms to identify real-time demand and hidden skills.
