@@ -17,7 +17,8 @@ This repository serves as the official progress and reporting page for the Conve
 - **Apply:** An active diagnostic engine mapping out reasons for application stalling to guide measurable improvements.
 
 ## Current Status
-Convergify is currently in the prototyping and validation stage.
+- **Start Date:** Mid-May 2026
+- **Phase:** Convergify is currently in the prototyping and validation stage.
 - **Tech Stack:** Our core infrastructure is built on Next.js & React (Frontend), Supabase (Backend & Auth), and Google Gemini (AI Engine).
 - **Development:** We have a proven prototype featuring a multi-source job aggregation engine and an LLM-based resume parsing & gap analysis tool.
 - **Validation:** We are currently exploring freemium adoption strategies and outcome-driven institutional pilots to reduce time-to-skill for students.
@@ -47,9 +48,14 @@ Convergify is currently supported through bootstrapping and the Student Entrepre
 
 ## Contact
 For any questions regarding Convergify or our SEP project progress, please contact:
-- **Siva & Ethan**
-- **Email:** [Your Email Placeholder]
-- **LinkedIn:** [Your LinkedIn Placeholder]
+
+### Siva
+- **Email:** [plsi0001@e.ntu.edu.sg](mailto:plsi0001@e.ntu.edu.sg)
+- **LinkedIn:** [Siva Nadarajan](https://www.linkedin.com/in/pl-sivanadarajan/)
+
+### Ethan
+- **Email:** [eloh016@e.ntu.edu.sg](mailto:eloh016@e.ntu.edu.sg)
+- **LinkedIn:** [Ethan Loh](https://www.linkedin.com/in/ethanlohwenxi/)
 
 ---
 
