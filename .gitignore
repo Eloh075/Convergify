@@ -1,0 +1,10 @@
+# Ignore raw source materials
+do_not_push/
+
+# Graphify specific ignores
+graphify-out/manifest.json
+graphify-out/cost.json
+# graphify-out/cache/
+
+# Agent configuration
+.agents/
