@@ -1,0 +1,18 @@
+sites:
+  linkedin:
+    name: "LinkedIn"
+    base_url: "https://www.linkedin.com/jobs/"
+    enabled: true
+  skills_career:
+    name: "SkillsCareer"
+    base_url: "https://www.mycareersfuture.gov.sg/"
+    enabled: true
+    
+database:
+  provider: "supabase"
+  table_name: "job_listings"
+  
+scraping:
+  delay_between_requests: 2
+  max_pages_per_search: 10
+  timeout_seconds: 30

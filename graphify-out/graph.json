@@ -1,0 +1,305 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "community": 0,
+      "norm_label": "readme.md",
+      "id": "readme_md"
+    },
+    {
+      "label": "Convergify",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "community": 0,
+      "norm_label": "convergify",
+      "id": "sep_readme_convergify"
+    },
+    {
+      "label": "Overview",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L5",
+      "community": 0,
+      "norm_label": "overview",
+      "id": "sep_readme_overview"
+    },
+    {
+      "label": "Pitch Video & Deck",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L10",
+      "community": 0,
+      "norm_label": "pitch video & deck",
+      "id": "sep_readme_pitch_video_deck"
+    },
+    {
+      "label": "Core Features",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L14",
+      "community": 0,
+      "norm_label": "core features",
+      "id": "sep_readme_core_features"
+    },
+    {
+      "label": "Current Status",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L20",
+      "community": 0,
+      "norm_label": "current status",
+      "id": "sep_readme_current_status"
+    },
+    {
+      "label": "Team Composition",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L27",
+      "community": 1,
+      "norm_label": "team composition",
+      "id": "sep_readme_team_composition"
+    },
+    {
+      "label": "Siva",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L30",
+      "community": 1,
+      "norm_label": "siva",
+      "id": "sep_readme_siva"
+    },
+    {
+      "label": "Ethan",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L35",
+      "community": 1,
+      "norm_label": "ethan",
+      "id": "sep_readme_ethan"
+    },
+    {
+      "label": "Product Roadmap & Next Steps",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L40",
+      "community": 0,
+      "norm_label": "product roadmap & next steps",
+      "id": "sep_readme_product_roadmap_next_steps"
+    },
+    {
+      "label": "Finance & Budget",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L47",
+      "community": 0,
+      "norm_label": "finance & budget",
+      "id": "sep_readme_finance_budget"
+    },
+    {
+      "label": "Contact",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L50",
+      "community": 2,
+      "norm_label": "contact",
+      "id": "sep_readme_contact"
+    },
+    {
+      "label": "Siva",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L53",
+      "community": 2,
+      "norm_label": "siva",
+      "id": "sep_readme_siva_53"
+    },
+    {
+      "label": "Ethan",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L57",
+      "community": 2,
+      "norm_label": "ethan",
+      "id": "sep_readme_ethan_57"
+    },
+    {
+      "label": "Progress Updates",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L63",
+      "community": 3,
+      "norm_label": "progress updates",
+      "id": "sep_readme_progress_updates"
+    },
+    {
+      "label": "Update 1: Initial Pitch & Project Overview (May 2026)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L67",
+      "community": 3,
+      "norm_label": "update 1: initial pitch & project overview (may 2026)",
+      "id": "sep_readme_update_1_initial_pitch_project_overview_may_2026"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "readme_md",
+      "target": "sep_readme_convergify"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sep_readme_convergify",
+      "target": "sep_readme_overview"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L10",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sep_readme_convergify",
+      "target": "sep_readme_pitch_video_deck"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sep_readme_convergify",
+      "target": "sep_readme_core_features"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L19",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sep_readme_convergify",
+      "target": "sep_readme_current_status"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L25",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sep_readme_convergify",
+      "target": "sep_readme_team_composition"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L38",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sep_readme_convergify",
+      "target": "sep_readme_product_roadmap_next_steps"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L45",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sep_readme_convergify",
+      "target": "sep_readme_finance_budget"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L48",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sep_readme_convergify",
+      "target": "sep_readme_contact"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L56",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sep_readme_convergify",
+      "target": "sep_readme_progress_updates"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L28",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sep_readme_team_composition",
+      "target": "sep_readme_siva"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L33",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sep_readme_team_composition",
+      "target": "sep_readme_ethan"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L53",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sep_readme_contact",
+      "target": "sep_readme_siva_53"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L57",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sep_readme_contact",
+      "target": "sep_readme_ethan_57"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L60",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "sep_readme_progress_updates",
+      "target": "sep_readme_update_1_initial_pitch_project_overview_may_2026"
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "8138dd29429fb40b5d548ee37f8e940e7de58a9e"
+}

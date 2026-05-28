@@ -1,0 +1,1 @@
+# Scraper module - empty to avoid circular imports
