@@ -27,7 +27,7 @@ This repository serves as the official progress and reporting page for the Conve
 ## Team Composition
 Convergify is built by two self-driven Year 2 Computer Engineering students:
 
-### Siva
+### PL SIVANADARAJAN
 *Technical Depth Meets Operating Perspective*
 - Combines technical depth with consulting experience. 
 - Expert in identifying customer pain points, execution, and go-to-market strategy.
@@ -50,9 +50,9 @@ Convergify is currently supported through bootstrapping and the Student Entrepre
 ## Contact
 For any questions regarding Convergify or our SEP project progress, please contact:
 
-### Siva
+### PL SIVANADARAJAN
 - **Email:** [plsi0001@e.ntu.edu.sg](mailto:plsi0001@e.ntu.edu.sg)
-- **LinkedIn:** [Siva Nadarajan](https://www.linkedin.com/in/pl-sivanadarajan/)
+- **LinkedIn:** [PL SIVANADARAJAN](https://www.linkedin.com/in/pl-sivanadarajan/)
 
 ### Ethan
 - **Email:** [eloh016@e.ntu.edu.sg](mailto:eloh016@e.ntu.edu.sg)
