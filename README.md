@@ -68,3 +68,8 @@ For any questions regarding Convergify or our SEP project progress, please conta
 - **Status:** Initial project overview, pitch deck generation, and core objectives established.
 - **Video Link:** [Convergify Pitch](https://youtu.be/o039x1h91_A?si=hafl_UWs1OS-LCXQ)
 - **Development Works:** Established the core infrastructure (Next.js, Supabase, Gemini) and began prototyping multi-source job aggregation.
+
+### Update 2: Data Pipeline & UI V2 Showcase (Late May 2026)
+- **Status:** Functional prototype demonstration and progress reporting for iLab.
+- **Video Link:** [May Progress Update](https://youtu.be/SXJ2KvF3a90)
+- **Development Works:** Successfully ingested nearly 2,000 real-world job postings, normalized 19,000+ raw skills into 166 canonical skills using Gemini, and began prototyping the UI V2 "Evidence Engine".
